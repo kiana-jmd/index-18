@@ -1,0 +1,51 @@
+html{
+    font-size: 62.5% ;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.ff-c{
+   font-family: 'Cambay', sans-serif;
+}
+.fs-12{
+    font-size: 1.2rem;
+} 
+.fs-14{
+    font-size: 1.4rem;
+} 
+.fs-16{
+    font-size: 1.6rem;
+} 
+.fs-24{
+    font-size: 2.4rem;
+} 
+.fs-32{
+    font-size: 3.2rem;
+} 
+.fs-44{
+    font-size: 4.4rem;
+} 
+.shop-box{
+    border: .1rem solid rgba(209, 209, 216, 1);
+}
+.text-gray{
+    color: rgba(162, 163, 177, 1);
+}
+.bg{
+    background-image: url(/index-18/imgs/1-1.svg);
+}
+.bg-b{
+    background-color: rgba(58, 163, 159, 1);
+}
+.text-b{
+    color: rgba(58, 163, 159, 1);
+}
+.radius-4{
+    border-radius: .4rem;
+}
+.fw--600{
+    font-weight: 600;
+}
+.top{
+    top: 2rem;
+}
